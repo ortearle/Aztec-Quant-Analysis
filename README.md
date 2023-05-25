@@ -1,5 +1,5 @@
 Aztec Analysis
-Written by Rebecca Tearle as part of Oxford Micromechanics Group - many thanks to Dr Phani Karamched, Rob Scales & Mike Goode for their help in the code development.
+Written by Rebecca Tearle as part of Oxford Micromechanics Group - many thanks to Dr Phani Karamched, Rob Scales & Mike Goode for their help!
  
 What can this code do?
 
