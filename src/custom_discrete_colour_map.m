@@ -1,6 +1,5 @@
 function [cmap]=custom_discrete_colour_map(NumClusters) 
 %https://uk.mathworks.com/matlabcentral/answers/265914-how-to-make-my-own-custom-colormap#comment_339161
-%and lots of help from Rob Scales
 
 cmap = colormap; 
 interpolate=linspace(1,255,(NumClusters));
