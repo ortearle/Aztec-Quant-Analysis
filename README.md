@@ -1,6 +1,6 @@
 Aztec Analysis
 Written by Rebecca Tearle as part of Oxford Micromechanics Group - many thanks to Dr Phani Karamched, Rob Scales & Mike Goode for their help in the code development.
-
+ 
 What can this code do?
 	Output your Aztec figures with an at%/wt% scale bar
 	Find the phases in your EDX map and characterise them (pie chart and histogram)
