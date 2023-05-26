@@ -73,8 +73,8 @@ premier_correlate: "yes" if you want to correlate with the Premier
 microscope: 1 or 2. 1 for EVO, 2 for Tescan (1 if you want it the same way up as Aztec has it)
 
 
-* whilst the computer calculates the optimum, the histogram outputs will indicate if there might be two phases hidden in one. The output dev_ideal tells you the percentage difference in Calinski-Harabasz index between the different clusters to also inform this decision. 
-You can change the number of clusters in the kmeans clustering for phase analysis section to avoid re-running the code (remember to comment this out afterwards!).
+(* whilst the computer calculates the optimum, the histogram outputs will indicate if there might be two phases hidden in one. The output dev_ideal tells you the percentage difference in Calinski-Harabasz index between the different clusters to also inform this decision. 
+You can change the number of clusters in the kmeans clustering for phase analysis section to avoid re-running the code (remember to comment this out afterwards!).)
  
 
 Types of smoothing:
